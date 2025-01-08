@@ -1,6 +1,4 @@
-Here's a sample `README.md` file for your project:
 
-```markdown
 # PKI and TEE Authentication System
 
 This project demonstrates a simple authentication system that integrates Public Key Infrastructure (PKI) with certificate-based authentication. It also includes a placeholder for integrating Trusted Execution Environment (TEE) operations to secure key management and other cryptographic operations.
