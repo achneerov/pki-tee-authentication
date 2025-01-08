@@ -13,7 +13,7 @@ This project demonstrates a simple authentication system that integrates Public 
 ## Project Structure
 
 ```
-pki_tee_auth_system/
+pki_tee_authentication/
 │
 ├── pki_auth.py               # Handles key pair and certificate generation
 ├── authenticate_with_cert.py # Manages certificate-based authentication and verification
@@ -41,7 +41,7 @@ pki_tee_auth_system/
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/pki-tee-authentication.git
+   git clone https://github.com/achneerov/pki-tee-authentication.git
    cd pki-tee-authentication
    ```
 
